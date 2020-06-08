@@ -7,3 +7,4 @@ O projeto é criado com:
 * sqlite3 4.2.0
 * cors 2.8.5
 * typescript 3.9.5
+* mocha 7.2.0
